@@ -1,3 +1,3 @@
-SISL
-Sharif University of Technology 
-Intelligent Systems Laboratory
+## SISL (Sharif Intelligent Systems Laboratory)
+#### Department of Computer Engineering
+#### Sharif University of Technology 
